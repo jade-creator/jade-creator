@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jade a Information Technology Student
+- 👋 Hi, I’m Jade an Information Technology Student
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP with Laravel Framework
 - 📫 Visit my portfolio: jadessoriano.me
